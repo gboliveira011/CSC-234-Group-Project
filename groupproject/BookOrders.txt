@@ -1,0 +1,15 @@
+%James Davis
+111 Tech Rd. Raleigh, NC 23409
+JD@yahoo.com
+C++ Programming
+109.00
+2
+How to Program Using Java
+89.90
+1 
+%Mary Henderson
+222 Weston Rd. Cary, NC 27515
+MH@yahoo.com
+Introduction to Python
+78.00
+3
